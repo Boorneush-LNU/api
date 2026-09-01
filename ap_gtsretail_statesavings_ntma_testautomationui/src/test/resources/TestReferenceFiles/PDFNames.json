@@ -1,0 +1,163 @@
+{
+  "fileMappings": {
+    "Prize Bonds": {
+      "English": [
+        "Prize-Payment-Option-Form_1.pdf",
+        "PrizeBonds_Gift_Brochure.pdf",
+        "prizebonds_gift_application_form.pdf",
+        "SS_StatementRequestForm_1.pdf",
+        "prizebonds_directdebit_mandate.pdf",
+        "prizebonds_repayment_form.pdf",
+        "changename_or_addressform.pdf"
+      ],
+      "Irish": [
+        "PrizeBonds_Gift_Brochure_Irish.pdf",
+        "PrizeBonds_Gift_Application_Form_Irish.pdf",
+        "prizebonds_direct_debit_mandate_irish.pdf",
+        "prizebonds_repayment_form_irish.pdf"
+      ]
+    },
+    "Application Forms": {
+      "English": [
+        "new-customer-application-form.pdf",
+        "Deposit-account-app-form.pdf",
+        "prizebonds_gift_application_form.pdf"
+      ],
+      "Irish": [
+        "new-customer-application-form-irish.pdf",
+        "Deposit-account-app-form_Irish.pdf",
+        "PrizeBonds_Gift_Application_Form_Irish.pdf"
+      ]
+    },
+    "Fixed Term Products": {
+      "English": [
+        "nsb-repaymentform-1-4.pdf",
+        "nsbrepaymentformissue5.pdf",
+        "SS_StatementRequestForm_1.pdf",
+        "changeofaddressforsavingsandinvestment.pdf"
+      ],
+      "Irish": [
+        "othr_savingsrepaymentform_irish.pdf",
+        "certbondsrepaymentform_irish.pdf",
+        "cs_changenameaddr_irish.pdf"
+      ]
+    },
+    "Deposit Accounts": {
+      "English": [
+        "Deposit-account-brochure.pdf",
+        "ordinary_depositaccountrepayment_form.pdf",
+        "CS-LostStolenDepositBookForm_1.pdf",
+        "SS_StatementRequestForm_1.pdf",
+        "changeofaddressforsavingsandinvestment.pdf",
+        "Deletion-of-Name-Deposit-Account-12-2017_1.pdf",
+        "csadditionof-name-deposit-account-10-2017.pdf",
+        "CS-DormancyReactivationForm-09-06-2017_1.pdf"
+      ],
+      "Irish": [
+        "deposit-account-brochure_irish.pdf",
+        "ordinarydepacctrepay_irish.pdf",
+        "loststolenbook_irish.pdf",
+        "cs_changenameaddr_irish.pdf",
+        "dormancy_reactivationform_irish.pdf",
+        "Deposit-account-app-form_Irish.pdf"
+      ]
+    },
+    "Regular Saving Products": {
+      "English": [
+        "nsb-repaymentform-1-4.pdf",
+        "SS_StatementRequestForm_1.pdf",
+        "instalment-savings-directdebit-mandate.pdf",
+        "changeofaddressforsavingsandinvestment.pdf"
+      ],
+      "Irish": [
+        "othr_savingsrepaymentform_irish.pdf",
+        "instalment-savings-directdebit-mandate-irish.pdf",
+        "cs_changenameaddr_irish.pdf"
+      ]
+    },
+    "Terms & Conditions": {
+      "English": [
+        "Terms-and-Conditions-July-2024.pdf"
+      ],
+      "Irish": [
+        "Tearmai-agus-Coinniollacha-luil-2024.pdf"
+      ]
+    },
+    "Repayments": {
+      "English": [
+        "nsb-repaymentform-1-4.pdf",
+        "nsbrepaymentformissue5.pdf",
+        "prizebonds_repayment_form.pdf",
+        "ordinary_depositaccountrepayment_form.pdf"
+      ],
+      "Irish": [
+        "othr_savingsrepaymentform_irish.pdf",
+        "certbondsrepaymentform_irish.pdf",
+        "prizebonds_repayment_form_irish.pdf",
+        "ordinarydepacctrepay_irish.pdf"
+      ]
+    },
+    "Deceased Cases": {
+      "English": [
+        "Deceased-Claim-Form.pdf",
+        "Deceased-Information.pdf"
+        ],
+      "Irish": []
+    },
+    "Complaints": {
+      "English": [
+        "StateSavings_Customer_ComplaintForm_1.pdf",
+        "PrizeBonds_Customer_ComplaintForm_1.pdf"
+      ],
+      "Irish": [
+        "t2651-19-statesavings_customer_complaintfor-ga.pdf",
+        "t2651-19-prizebonds_customer_complaintfor-ga.pdf"
+      ]
+    },
+    "Change of Details": {
+      "English": [
+        "changeofaddressforsavingsandinvestment.pdf",
+        "changename_or_addressform.pdf",
+        "change-of-mobile-number-form.pdf",
+        "Deletion-of-Name-Deposit-Account-12-2017_1.pdf",
+        "csadditionof-name-deposit-account-10-2017.pdf",
+        "CS-DormancyReactivationForm-09-06-2017_1.pdf"
+
+      ],
+      "Irish": [
+        "cs_changenameaddr_irish.pdf",
+        "dormancy_reactivationform_irish.pdf"
+      ]
+    },
+    "Brochures": {
+      "English": [
+        "new-customer-brochure.pdf",
+        "Deposit-account-brochure.pdf",
+        "PrizeBonds_Gift_Brochure.pdf",
+        "summary-of-products.pdf"
+      ],
+      "Irish": [
+        "new-customer-brochure-irish.pdf",
+        "deposit-account-brochure_irish.pdf",
+        "PrizeBonds_Gift_Brochure_Irish.pdf",
+        "summary-of-products-irish.pdf"
+      ]
+    },
+    "Other": {
+      "English": [
+        "SS_StatementRequestForm_1.pdf",
+        "instalment-savings-directdebit-mandate.pdf",
+        "prizebonds_directdebit_mandate.pdf",
+        "CS-DormancyReactivationForm-09-06-2017_1.pdf",
+        "A4-Dormancy-Bilingual-Customer-Notice.PDF",
+        "Non_resident_declaration_form_1.pdf"
+      ],
+      "Irish": [
+        "dormancy_reactivationform_irish.pdf",
+        "prizebonds_direct_debit_mandate_irish.pdf",
+        "instalment-savings-directdebit-mandate-irish.pdf"
+
+      ]
+    }
+  }
+}

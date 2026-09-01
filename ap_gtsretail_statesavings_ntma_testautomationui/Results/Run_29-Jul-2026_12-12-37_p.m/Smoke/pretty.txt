@@ -1,0 +1,7 @@
+
+@CMS_Sanity_Suite @CMS_Sanity_Suite_UAT @CMS_Sanity_Suite_PREPROD @dhd
+Scenario: TC1_State Savings Online landing page          # src/test/resources/features/Sanity/Updated Sanity Suite.feature:13
+
+    Embedding TC1_State Savings Online landing page [image/png 976160 bytes]
+
+  Given Launch the Ireland State Savings Online Homepage # com.cucumbercraft.stepdefinitions.Kentico13_HomeStepDefinitions.LaunchtheIrelandStateSavingsOnlineHomepage()
